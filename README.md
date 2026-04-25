@@ -21,6 +21,11 @@ It is a simple dashboard that helps businesses figure out which customers are ab
 3. Run the Streamlit app:
 `streamlit run app.py`
 
+### AI Usage Declaration
+I want to clarify how AI was used in this project. I utilized an tutor. Specifically, I used it to help debug Streamlit deployment errors(I am new to using this), structure my UI layout, and understand specific Scikit-Learn syntax.
+
+However, the core data exploration, model training in the Jupyter Notebook, and the main core logic of the application were written and executed by me. I used AI to learn how to build the tool.
+
 
 ### HERE IS THE VIDEO TO SEE IT IN ACTION
 
